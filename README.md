@@ -6,4 +6,8 @@ Use this yourself [as described here](https://github.com/raycast/script-commands
 
 ## Clone a git repo using `ghq`
 
-I manage my local repositories using [ghq](https://github.com/x-motemen/ghq). This script saves me opening a terminal to clone a new repo, I just need to supply the user/org and repo name to grab any repo I have access to on github to a sensible place on my local filesystem. 
+I manage my local repositories using [ghq](https://github.com/x-motemen/ghq). This script saves me opening a terminal to clone a new repo, I just need to supply the user/org and repo name to grab any repo I have access to on github to a sensible place on my local filesystem.
+
+## search elixir language docs and hexdocs
+
+because this is a thing I'm doing a lot at the moment!
